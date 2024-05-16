@@ -1,0 +1,61 @@
+.Menu {
+  color: white;
+  background-color: rgb(0, 0, 0);
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  position: sticky;
+  top: 0;
+}
+.menumenu {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  margin-right: 80px;
+}
+
+img {
+  border-radius: 10px;
+}
+.testelista {
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  list-style: none;
+  border-radius: 20px;
+  margin: 0 80px 0 80px;
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: justify;
+}
+
+footer {
+  background-color: rgb(0, 0, 0);
+  border: 1px solid black;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+}
